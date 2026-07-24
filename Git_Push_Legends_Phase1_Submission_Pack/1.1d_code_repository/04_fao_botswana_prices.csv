@@ -1,0 +1,853 @@
+Date,Item Code,Item,Value
+2000-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",31.74832
+2000-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",31.912372
+2000-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",31.974914
+2000-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",32.163038
+2000-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",32.27704
+2000-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",32.413704
+2000-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",32.679873
+2000-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",32.612508
+2000-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",32.88129
+2000-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",32.811312
+2000-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",33.05753
+2000-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.010116
+2000-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",33.535894
+2000-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.010116
+2000-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",33.611426
+2000-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.010116
+2000-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",33.712134
+2000-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.010116
+2000-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",33.989082
+2000-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",32.992829
+2000-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",34.064614
+2000-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",32.975541
+2000-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",34.140145
+2000-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",32.958254
+2001-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",34.291207
+2001-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.061978
+2001-01-01,23014,Food price inflation,3.602384
+2001-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",34.341562
+2001-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.243495
+2001-02-01,23014,Food price inflation,3.359312
+2001-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",34.643687
+2001-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.295356
+2001-03-01,23014,Food price inflation,2.72
+2001-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",34.794749
+2001-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.321287
+2001-04-01,23014,Food price inflation,2.173337
+2001-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",35.273114
+2001-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.476873
+2001-05-01,23014,Food price inflation,2.028451
+2001-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",35.373823
+2001-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.528735
+2001-06-01,23014,Food price inflation,1.571092
+2001-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",35.524885
+2001-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.65839
+2001-07-01,23014,Food price inflation,1.963865
+2001-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",35.625594
+2001-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.736183
+2001-08-01,23014,Food price inflation,2.199529
+2001-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",35.776656
+2001-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.788045
+2001-09-01,23014,Food price inflation,2.356638
+2001-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",35.952896
+2001-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",33.842976
+2001-10-01,23014,Food price inflation,2.576765
+2001-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",36.053604
+2001-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",34.160093
+2001-11-01,23014,Food price inflation,3.592213
+2001-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",36.103958
+2001-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",34.47721
+2001-12-01,23014,Food price inflation,4.608727
+2002-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",36.229844
+2002-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",34.794327
+2002-01-01,23014,Food price inflation,5.239702
+2002-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",36.280198
+2002-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",35.111444
+2002-02-01,23014,Food price inflation,5.618992
+2002-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",36.758563
+2002-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",35.428561
+2002-03-01,23014,Food price inflation,6.406912
+2002-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",37.211751
+2002-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",35.745678
+2002-04-01,23014,Food price inflation,7.2758
+2002-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",37.312459
+2002-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",36.062794
+2002-05-01,23014,Food price inflation,7.724501
+2002-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",37.463522
+2002-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",36.379911
+2002-06-01,23014,Food price inflation,8.50368
+2002-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",38.672022
+2002-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",36.697028
+2002-07-01,23014,Food price inflation,9.027878
+2002-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",39.150387
+2002-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",37.014145
+2002-08-01,23014,Food price inflation,9.716459
+2002-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",39.402158
+2002-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",37.331262
+2002-09-01,23014,Food price inflation,10.486601
+2002-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",39.553221
+2002-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",37.648379
+2002-10-01,23014,Food price inflation,11.244292
+2002-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",39.830169
+2002-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",37.965496
+2002-11-01,23014,Food price inflation,11.139908
+2002-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",39.930877
+2002-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",38.282613
+2002-12-01,23014,Food price inflation,11.037445
+2003-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",40.157471
+2003-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",38.525545
+2003-01-01,23014,Food price inflation,10.723638
+2003-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",40.509951
+2003-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",38.938687
+2003-02-01,23014,Food price inflation,10.900273
+2003-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",40.68619
+2003-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",39.248544
+2003-03-01,23014,Food price inflation,10.782214
+2003-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",41.240086
+2003-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",39.868258
+2003-04-01,23014,Food price inflation,11.533088
+2003-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",41.491857
+2003-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.178115
+2003-05-01,23014,Food price inflation,11.41154
+2003-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",42.045754
+2003-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.487972
+2003-06-01,23014,Food price inflation,11.292112
+2003-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",42.020576
+2003-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.487972
+2003-07-01,23014,Food price inflation,10.330383
+2003-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",42.196816
+2003-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.591257
+2003-08-01,23014,Food price inflation,9.664176
+2003-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",42.272347
+2003-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.591257
+2003-09-01,23014,Food price inflation,8.732615
+2003-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",42.322702
+2003-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.487972
+2003-10-01,23014,Food price inflation,7.542404
+2003-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",42.448587
+2003-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.487972
+2003-11-01,23014,Food price inflation,6.644127
+2003-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",42.473764
+2003-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.591257
+2003-12-01,23014,Food price inflation,6.03053
+2004-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",42.619445
+2004-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.694543
+2004-01-01,23014,Food price inflation,5.630027
+2004-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",43.059388
+2004-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",40.901114
+2004-02-01,23014,Food price inflation,5.039788
+2004-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",43.49933
+2004-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",41.314257
+2004-03-01,23014,Food price inflation,5.263158
+2004-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",43.939273
+2004-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",41.933971
+2004-04-01,23014,Food price inflation,5.181347
+2004-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",44.544194
+2004-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.037256
+2004-05-01,23014,Food price inflation,4.627249
+2004-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",44.874151
+2004-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.347113
+2004-06-01,23014,Food price inflation,4.591837
+2004-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",44.819158
+2004-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.037256
+2004-07-01,23014,Food price inflation,3.826531
+2004-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",44.984137
+2004-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.140542
+2004-08-01,23014,Food price inflation,3.816794
+2004-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",45.259101
+2004-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.243828
+2004-09-01,23014,Food price inflation,4.071247
+2004-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",45.534065
+2004-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.347113
+2004-10-01,23014,Food price inflation,4.591837
+2004-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",45.644051
+2004-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.450399
+2004-11-01,23014,Food price inflation,4.846939
+2004-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",45.809029
+2004-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.553685
+2004-12-01,23014,Food price inflation,4.834606
+2005-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",46.029
+2005-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.65697
+2005-01-01,23014,Food price inflation,4.822335
+2005-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",46.193979
+2005-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.553685
+2005-02-01,23014,Food price inflation,4.040404
+2005-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",46.303965
+2005-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.553685
+2005-03-01,23014,Food price inflation,3.0
+2005-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",46.633922
+2005-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.966827
+2005-04-01,23014,Food price inflation,2.463054
+2005-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",47.348828
+2005-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",42.863541
+2005-05-01,23014,Food price inflation,1.965602
+2005-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",48.063735
+2005-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",43.689827
+2005-06-01,23014,Food price inflation,3.170732
+2005-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",48.503678
+2005-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",44.412826
+2005-07-01,23014,Food price inflation,5.651106
+2005-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",49.32857
+2005-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",44.825969
+2005-08-01,23014,Food price inflation,6.372549
+2005-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",49.768513
+2005-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",45.342397
+2005-09-01,23014,Food price inflation,7.334963
+2005-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",50.648398
+2005-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",45.755539
+2005-10-01,23014,Food price inflation,8.04878
+2005-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",50.813377
+2005-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",46.168682
+2005-11-01,23014,Food price inflation,8.759124
+2005-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",50.978355
+2005-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",46.271968
+2005-12-01,23014,Food price inflation,8.737864
+2006-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",51.858241
+2006-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",47.201538
+2006-01-01,23014,Food price inflation,10.653753
+2006-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",52.24319
+2006-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",47.717967
+2006-02-01,23014,Food price inflation,12.135922
+2006-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",52.683133
+2006-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",48.440966
+2006-03-01,23014,Food price inflation,13.834951
+2006-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",53.288054
+2006-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",49.163966
+2006-04-01,23014,Food price inflation,14.423077
+2006-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",53.78299
+2006-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",49.78368
+2006-05-01,23014,Food price inflation,16.144578
+2006-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",54.057954
+2006-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",49.886965
+2006-06-01,23014,Food price inflation,14.184397
+2006-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",54.277925
+2006-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",50.093536
+2006-07-01,23014,Food price inflation,12.790698
+2006-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",54.607882
+2006-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",50.609965
+2006-08-01,23014,Food price inflation,12.903226
+2006-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",54.992832
+2006-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",50.71325
+2006-09-01,23014,Food price inflation,11.845103
+2006-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",55.322789
+2006-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",51.023107
+2006-10-01,23014,Food price inflation,11.512415
+2006-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",55.267796
+2006-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",50.816536
+2006-11-01,23014,Food price inflation,10.067114
+2006-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",55.322789
+2006-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",50.71325
+2006-12-01,23014,Food price inflation,9.598214
+2007-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",55.707739
+2007-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",51.229679
+2007-01-01,23014,Food price inflation,8.533917
+2007-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",56.037696
+2007-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",51.746107
+2007-02-01,23014,Food price inflation,8.441558
+2007-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",56.092689
+2007-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",52.469106
+2007-03-01,23014,Food price inflation,8.315565
+2007-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",56.587624
+2007-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",53.08882
+2007-04-01,23014,Food price inflation,7.983193
+2007-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",57.192545
+2007-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",54.121676
+2007-05-01,23014,Food price inflation,8.713693
+2007-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",57.577495
+2007-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",55.670961
+2007-06-01,23014,Food price inflation,11.594203
+2007-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",58.402388
+2007-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",56.600532
+2007-07-01,23014,Food price inflation,12.989691
+2007-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",58.567366
+2007-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",57.013674
+2007-08-01,23014,Food price inflation,12.653061
+2007-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",58.732345
+2007-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",57.11696
+2007-09-01,23014,Food price inflation,12.627291
+2007-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",59.337266
+2007-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",57.633388
+2007-10-01,23014,Food price inflation,12.955466
+2007-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",59.502244
+2007-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",58.459673
+2007-11-01,23014,Food price inflation,15.04065
+2007-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",59.832201
+2007-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",58.562959
+2007-12-01,23014,Food price inflation,15.478615
+2008-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",60.38213
+2008-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",60.525386
+2008-01-01,23014,Food price inflation,18.145161
+2008-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",61.097036
+2008-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",61.248386
+2008-02-01,23014,Food price inflation,18.363273
+2008-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",61.646965
+2008-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",61.8681
+2008-03-01,23014,Food price inflation,17.913386
+2008-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",62.9118
+2008-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",62.900956
+2008-04-01,23014,Food price inflation,18.48249
+2008-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",64.121642
+2008-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",64.140384
+2008-05-01,23014,Food price inflation,18.51145
+2008-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",65.881413
+2008-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",65.792954
+2008-06-01,23014,Food price inflation,18.181818
+2008-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",67.146248
+2008-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",67.032382
+2008-07-01,23014,Food price inflation,18.430657
+2008-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",67.366219
+2008-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",67.755381
+2008-08-01,23014,Food price inflation,18.84058
+2008-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",66.981269
+2008-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",68.788238
+2008-09-01,23014,Food price inflation,20.433996
+2008-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",67.091255
+2008-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",72.093378
+2008-10-01,23014,Food price inflation,25.089606
+2008-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",69.016004
+2008-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",72.609806
+2008-11-01,23014,Food price inflation,24.204947
+2008-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",68.026133
+2008-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",73.22952
+2008-12-01,23014,Food price inflation,25.044092
+2009-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",68.081126
+2009-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",74.055805
+2009-01-01,23014,Food price inflation,22.354949
+2009-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",68.246105
+2009-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",74.262377
+2009-02-01,23014,Food price inflation,21.247892
+2009-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",68.851026
+2009-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",75.191947
+2009-03-01,23014,Food price inflation,21.535893
+2009-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",69.290968
+2009-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",75.501804
+2009-04-01,23014,Food price inflation,20.032841
+2009-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",69.51094
+2009-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",75.708376
+2009-05-01,23014,Food price inflation,18.035427
+2009-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",70.500811
+2009-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",75.811661
+2009-06-01,23014,Food price inflation,15.22763
+2009-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",71.160725
+2009-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",76.947803
+2009-07-01,23014,Food price inflation,14.791988
+2009-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",71.490682
+2009-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",77.051089
+2009-08-01,23014,Food price inflation,13.719512
+2009-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",71.65566
+2009-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",76.947803
+2009-09-01,23014,Food price inflation,11.861862
+2009-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",71.710653
+2009-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",76.947803
+2009-10-01,23014,Food price inflation,6.733524
+2009-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",71.930624
+2009-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",77.051089
+2009-11-01,23014,Food price inflation,6.116643
+2009-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",71.985617
+2009-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",76.637946
+2009-12-01,23014,Food price inflation,4.654443
+2010-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",72.260581
+2010-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",76.689589
+2010-01-01,23014,Food price inflation,3.556485
+2010-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",72.426174
+2010-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",76.689589
+2010-02-01,23014,Food price inflation,3.268428
+2010-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",72.922953
+2010-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",77.350617
+2010-03-01,23014,Food price inflation,2.870879
+2010-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",74.237346
+2010-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",78.362817
+2010-04-01,23014,Food price inflation,3.78933
+2010-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",74.951465
+2010-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",79.178773
+2010-05-01,23014,Food price inflation,4.583902
+2010-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",75.945022
+2010-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",79.230416
+2010-06-01,23014,Food price inflation,4.509537
+2010-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",76.22446
+2010-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",79.385345
+2010-07-01,23014,Food price inflation,3.167785
+2010-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",76.276208
+2010-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",79.581587
+2010-08-01,23014,Food price inflation,3.284182
+2010-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",76.659141
+2010-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",79.529944
+2010-09-01,23014,Food price inflation,3.355705
+2010-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",76.824734
+2010-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",79.529944
+2010-10-01,23014,Food price inflation,3.355705
+2010-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",77.042075
+2010-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",79.788159
+2010-11-01,23014,Food price inflation,3.552279
+2010-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",77.321513
+2010-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",79.984401
+2010-12-01,23014,Food price inflation,4.366577
+2011-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",77.983884
+2011-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",80.294258
+2011-01-01,23014,Food price inflation,4.700337
+2011-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",78.584158
+2011-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",80.748715
+2011-02-01,23014,Food price inflation,5.292929
+2011-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",79.080937
+2011-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",81.461386
+2011-03-01,23014,Food price inflation,5.314461
+2011-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",80.291835
+2011-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",83.44447
+2011-04-01,23014,Food price inflation,6.484777
+2011-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",81.171547
+2011-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",84.146813
+2011-05-01,23014,Food price inflation,6.274459
+2011-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",81.937414
+2011-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",84.559955
+2011-06-01,23014,Food price inflation,6.726633
+2011-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",82.103007
+2011-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",84.756198
+2011-07-01,23014,Food price inflation,6.765548
+2011-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",82.930971
+2011-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",85.220983
+2011-08-01,23014,Food price inflation,7.086308
+2011-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",83.262157
+2011-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",85.67544
+2011-09-01,23014,Food price inflation,7.727273
+2011-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",83.593342
+2011-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",86.18154
+2011-10-01,23014,Food price inflation,8.363636
+2011-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",84.141869
+2011-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",86.635997
+2011-11-01,23014,Food price inflation,8.582524
+2011-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",84.410957
+2011-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",87.193739
+2011-12-01,23014,Food price inflation,9.01343
+2012-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",84.855988
+2012-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",87.451953
+2012-01-01,23014,Food price inflation,8.91433
+2012-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",85.073328
+2012-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",87.958053
+2012-02-01,23014,Food price inflation,8.928115
+2012-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",85.456262
+2012-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",88.619081
+2012-03-01,23014,Food price inflation,8.786611
+2012-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",86.284226
+2012-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",89.837852
+2012-04-01,23014,Food price inflation,7.661839
+2012-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",87.433027
+2012-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",90.550522
+2012-05-01,23014,Food price inflation,7.610163
+2012-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",87.878057
+2012-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",91.159908
+2012-06-01,23014,Food price inflation,7.805057
+2012-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",88.157495
+2012-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",91.562722
+2012-07-01,23014,Food price inflation,8.030709
+2012-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",88.426584
+2012-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",91.86225
+2012-08-01,23014,Food price inflation,7.792995
+2012-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",89.140703
+2012-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",92.22375
+2012-09-01,23014,Food price inflation,7.643159
+2012-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",89.523636
+2012-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",92.781492
+2012-10-01,23014,Food price inflation,7.658198
+2012-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",90.403348
+2012-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",93.081021
+2012-11-01,23014,Food price inflation,7.439199
+2012-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",90.682786
+2012-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",93.494163
+2012-12-01,23014,Food price inflation,7.225776
+2013-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",91.231313
+2013-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",94.000263
+2013-01-01,23014,Food price inflation,7.487894
+2013-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",91.396905
+2013-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",94.403077
+2013-02-01,23014,Food price inflation,7.327384
+2013-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",91.893684
+2013-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",94.960819
+2013-03-01,23014,Food price inflation,7.156177
+2013-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",92.493958
+2013-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",95.270676
+2013-04-01,23014,Food price inflation,6.047367
+2013-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",92.773396
+2013-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",95.570205
+2013-05-01,23014,Food price inflation,5.543515
+2013-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",92.990737
+2013-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",95.725133
+2013-06-01,23014,Food price inflation,5.007931
+2013-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",93.15633
+2013-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",95.828419
+2013-07-01,23014,Food price inflation,4.65877
+2013-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",93.37367
+2013-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",96.17959
+2013-08-01,23014,Food price inflation,4.699798
+2013-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",93.60136
+2013-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",96.530761
+2013-09-01,23014,Food price inflation,4.670176
+2013-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",93.818701
+2013-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",96.788975
+2013-10-01,23014,Food price inflation,4.31927
+2013-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",94.149887
+2013-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",97.047189
+2013-11-01,23014,Food price inflation,4.260985
+2013-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",94.418975
+2013-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",97.140146
+2013-12-01,23014,Food price inflation,3.899691
+2014-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",95.195192
+2014-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",97.398361
+2014-01-01,23014,Food price inflation,3.614987
+2014-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",95.629873
+2014-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",97.749532
+2014-02-01,23014,Food price inflation,3.544858
+2014-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",95.961058
+2014-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",98.007746
+2014-03-01,23014,Food price inflation,3.208614
+2014-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",96.726925
+2014-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",98.358917
+2014-04-01,23014,Food price inflation,3.241544
+2014-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",96.954616
+2014-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",98.617131
+2014-05-01,23014,Food price inflation,3.188155
+2014-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",97.223704
+2014-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",98.77206
+2014-06-01,23014,Food price inflation,3.182995
+2014-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",97.337549
+2014-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",98.916659
+2014-07-01,23014,Food price inflation,3.222677
+2014-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",97.606637
+2014-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",98.968302
+2014-08-01,23014,Food price inflation,2.899485
+2014-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",97.77223
+2014-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.123231
+2014-09-01,23014,Food price inflation,2.685641
+2014-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",97.886075
+2014-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.226516
+2014-10-01,23014,Food price inflation,2.518408
+2014-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",98.165513
+2014-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.474402
+2014-11-01,23014,Food price inflation,2.501064
+2014-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",97.937823
+2014-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.62933
+2014-12-01,23014,Food price inflation,2.562467
+2015-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",98.71404
+2015-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.62933
+2015-01-01,23014,Food price inflation,2.290562
+2015-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",98.331106
+2015-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.835902
+2015-02-01,23014,Food price inflation,2.134404
+2015-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",98.651942
+2015-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.835902
+2015-03-01,23014,Food price inflation,1.865318
+2015-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",99.697247
+2015-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.835902
+2015-04-01,23014,Food price inflation,1.501628
+2015-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",99.86284
+2015-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.887545
+2015-05-01,23014,Food price inflation,1.288228
+2015-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",100.256123
+2015-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.784259
+2015-06-01,23014,Food price inflation,1.024783
+2015-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",100.359619
+2015-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",99.887545
+2015-07-01,23014,Food price inflation,0.981518
+2015-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",100.525211
+2015-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",100.042473
+2015-08-01,23014,Food price inflation,1.085368
+2015-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",100.690804
+2015-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",100.187073
+2015-09-01,23014,Food price inflation,1.073252
+2015-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",100.970242
+2015-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",100.393644
+2015-10-01,23014,Food price inflation,1.176226
+2015-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",101.02199
+2015-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",100.342001
+2015-11-01,23014,Food price inflation,0.872184
+2015-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",100.970242
+2015-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",100.342001
+2015-12-01,23014,Food price inflation,0.715322
+2016-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",101.353176
+2016-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",100.796458
+2016-01-01,23014,Food price inflation,1.17147
+2016-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",101.291078
+2016-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",101.405843
+2016-02-01,23014,Food price inflation,1.572522
+2016-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",101.684361
+2016-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",101.7157
+2016-03-01,23014,Food price inflation,1.882888
+2016-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",102.543374
+2016-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",102.511
+2016-04-01,23014,Food price inflation,2.679495
+2016-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",102.677919
+2016-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",102.603957
+2016-05-01,23014,Food price inflation,2.719471
+2016-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",102.895259
+2016-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",102.325086
+2016-06-01,23014,Food price inflation,2.54632
+2016-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",103.050502
+2016-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",102.572971
+2016-07-01,23014,Food price inflation,2.68845
+2016-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",103.216095
+2016-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",102.934471
+2016-08-01,23014,Food price inflation,2.89077
+2016-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",103.495533
+2016-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",103.285642
+2016-09-01,23014,Food price inflation,3.092784
+2016-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",103.702524
+2016-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",103.667799
+2016-10-01,23014,Food price inflation,3.261317
+2016-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",103.909515
+2016-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",104.184227
+2016-11-01,23014,Food price inflation,3.82913
+2016-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",104.013011
+2016-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",104.318499
+2016-12-01,23014,Food price inflation,3.962944
+2017-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",104.530489
+2017-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.248069
+2017-01-01,23014,Food price inflation,4.416436
+2017-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",104.73748
+2017-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.661212
+2017-02-01,23014,Food price inflation,4.196374
+2017-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",105.254957
+2017-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.17764
+2017-03-01,23014,Food price inflation,4.386677
+2017-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",106.082922
+2017-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.487497
+2017-04-01,23014,Food price inflation,3.879093
+2017-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",106.289913
+2017-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.797354
+2017-05-01,23014,Food price inflation,4.086974
+2017-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",106.496904
+2017-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.694068
+2017-06-01,23014,Food price inflation,4.269708
+2017-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",106.600399
+2017-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",107.003925
+2017-07-01,23014,Food price inflation,4.319807
+2017-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",106.703895
+2017-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.90064
+2017-08-01,23014,Food price inflation,3.853101
+2017-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",106.80739
+2017-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.17764
+2017-09-01,23014,Food price inflation,2.8
+2017-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",106.80739
+2017-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.17764
+2017-10-01,23014,Food price inflation,2.421042
+2017-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",107.014381
+2017-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.971069
+2017-11-01,23014,Food price inflation,1.715079
+2017-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",107.324868
+2017-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.454641
+2017-12-01,23014,Food price inflation,1.089109
+2018-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",107.73885
+2018-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.661212
+2018-01-01,23014,Food price inflation,0.392542
+2018-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",108.049337
+2018-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.074354
+2018-02-01,23014,Food price inflation,0.391007
+2018-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",108.256328
+2018-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.17764
+2018-03-01,23014,Food price inflation,0.0
+2018-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",109.705265
+2018-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.280926
+2018-04-01,23014,Food price inflation,-0.193986
+2018-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",109.808761
+2018-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.280926
+2018-05-01,23014,Food price inflation,-0.483559
+2018-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",109.808761
+2018-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.971069
+2018-06-01,23014,Food price inflation,-0.677638
+2018-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",109.912256
+2018-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.764498
+2018-07-01,23014,Food price inflation,-1.158301
+2018-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",109.912256
+2018-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.454641
+2018-08-01,23014,Food price inflation,-1.352657
+2018-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",109.912256
+2018-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.144784
+2018-09-01,23014,Food price inflation,-0.972763
+2018-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",110.615405
+2018-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",104.992437
+2018-10-01,23014,Food price inflation,-1.116245
+2018-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",111.050707
+2018-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.144784
+2018-11-01,23014,Food price inflation,-0.779727
+2018-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",111.154203
+2018-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.248069
+2018-12-01,23014,Food price inflation,-0.195886
+2019-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",111.487665
+2019-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.669062
+2019-01-01,23014,Food price inflation,0.007429
+2019-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",111.709974
+2019-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",105.879558
+2019-02-01,23014,Food price inflation,-0.183642
+2019-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",111.821128
+2019-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.30055
+2019-03-01,23014,Food price inflation,0.115759
+2019-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",112.488053
+2019-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",106.721542
+2019-04-01,23014,Food price inflation,0.414577
+2019-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",112.599207
+2019-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",107.353031
+2019-05-01,23014,Food price inflation,1.008746
+2019-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",112.821516
+2019-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",107.353031
+2019-06-01,23014,Food price inflation,1.304094
+2019-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",113.043824
+2019-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",107.458279
+2019-07-01,23014,Food price inflation,1.601465
+2019-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",113.043824
+2019-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",107.458279
+2019-08-01,23014,Food price inflation,1.9
+2019-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",113.154978
+2019-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",107.774023
+2019-09-01,23014,Food price inflation,2.500589
+2019-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",113.266133
+2019-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",107.668775
+2019-10-01,23014,Food price inflation,2.549077
+2019-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",113.377287
+2019-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",107.879271
+2019-11-01,23014,Food price inflation,2.600688
+2019-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",113.599595
+2019-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",108.405511
+2019-12-01,23014,Food price inflation,3.0
+2020-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",114.044212
+2020-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",109.142248
+2020-01-01,23014,Food price inflation,3.286853
+2020-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",114.155366
+2020-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",109.668488
+2020-02-01,23014,Food price inflation,3.578529
+2020-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",114.26652
+2020-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",109.878984
+2020-03-01,23014,Food price inflation,3.366337
+2020-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",115.266908
+2020-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",110.089481
+2020-04-01,23014,Food price inflation,3.155819
+2020-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",115.266908
+2020-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",110.720969
+2020-05-01,23014,Food price inflation,3.137255
+2020-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",113.821904
+2020-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",111.247209
+2020-06-01,23014,Food price inflation,3.627451
+2020-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",114.044212
+2020-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",111.668202
+2020-07-01,23014,Food price inflation,3.917728
+2020-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",114.26652
+2020-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",112.089194
+2020-08-01,23014,Food price inflation,4.3095
+2020-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",115.155754
+2020-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",112.29969
+2020-09-01,23014,Food price inflation,4.199219
+2020-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",115.711525
+2020-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",112.29969
+2020-10-01,23014,Food price inflation,4.301075
+2020-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",115.933833
+2020-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",112.510186
+2020-11-01,23014,Food price inflation,4.292683
+2020-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",116.044988
+2020-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",112.29969
+2020-12-01,23014,Food price inflation,3.592233
+2021-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",116.600759
+2021-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",112.82593
+2021-01-01,23014,Food price inflation,3.375121
+2021-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",116.934221
+2021-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",113.667915
+2021-02-01,23014,Food price inflation,3.646833
+2021-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",120.661666
+2021-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",117.926778
+2021-03-01,23014,Food price inflation,7.324234
+2021-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",124.204929
+2021-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",123.198443
+2021-04-01,23014,Food price inflation,11.907553
+2021-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",124.849179
+2021-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",124.622976
+2021-05-01,23014,Food price inflation,12.555894
+2021-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",123.184978
+2021-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",118.836858
+2021-06-01,23014,Food price inflation,6.822327
+2021-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",124.166136
+2021-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",118.963051
+2021-07-01,23014,Food price inflation,6.532611
+2021-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",124.280291
+2021-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",119.174283
+2021-08-01,23014,Food price inflation,6.320939
+2021-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",124.844844
+2021-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",119.429826
+2021-09-01,23014,Food price inflation,6.349203
+2021-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",125.963055
+2021-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",119.953119
+2021-10-01,23014,Food price inflation,6.815183
+2021-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",125.937712
+2021-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",120.088047
+2021-11-01,23014,Food price inflation,6.735267
+2021-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",126.130008
+2021-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",120.433366
+2021-12-01,23014,Food price inflation,7.24283
+2022-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",128.923091
+2022-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",120.801945
+2022-01-01,23014,Food price inflation,7.06931
+2022-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",129.319689
+2022-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",121.358602
+2022-02-01,23014,Food price inflation,6.765926
+2022-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",129.6058
+2022-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",122.086813
+2022-03-01,23014,Food price inflation,3.527643
+2022-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",133.496197
+2022-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",124.776322
+2022-04-01,23014,Food price inflation,1.280762
+2022-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",136.934197
+2022-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",127.989125
+2022-05-01,23014,Food price inflation,2.701066
+2022-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",138.773688
+2022-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",130.258694
+2022-06-01,23014,Food price inflation,9.611358
+2022-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",141.968371
+2022-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",133.058714
+2022-07-01,23014,Food price inflation,11.848774
+2022-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",142.423547
+2022-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",134.960231
+2022-08-01,23014,Food price inflation,13.246102
+2022-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",142.058962
+2022-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",137.126341
+2022-09-01,23014,Food price inflation,14.817501
+2022-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",142.406652
+2022-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",138.897351
+2022-10-01,23014,Food price inflation,15.79303
+2022-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",142.406652
+2022-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",138.897351
+2022-11-01,23014,Food price inflation,15.662927
+2022-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",141.829762
+2022-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",140.797604
+2022-12-01,23014,Food price inflation,16.909133
+2023-01-01,23012,"Consumer Prices, General Indices (2015 = 100)",140.943307
+2023-01-01,23013,"Consumer Prices, Food Indices (2015 = 100)",141.583176
+2023-01-01,23014,Food price inflation,17.202729
+2023-02-01,23012,"Consumer Prices, General Indices (2015 = 100)",141.054683
+2023-02-01,23013,"Consumer Prices, Food Indices (2015 = 100)",142.354644
+2023-02-01,23014,Food price inflation,17.300828
+2023-03-01,23012,"Consumer Prices, General Indices (2015 = 100)",142.528477
+2023-03-01,23013,"Consumer Prices, Food Indices (2015 = 100)",143.768863
+2023-03-01,23014,Food price inflation,17.759534
+2023-04-01,23012,"Consumer Prices, General Indices (2015 = 100)",144.126319
+2023-04-01,23013,"Consumer Prices, Food Indices (2015 = 100)",145.495142
+2023-04-01,23014,Food price inflation,16.604768
+2023-05-01,23012,"Consumer Prices, General Indices (2015 = 100)",144.722772
+2023-05-01,23013,"Consumer Prices, Food Indices (2015 = 100)",146.269136
+2023-05-01,23014,Food price inflation,14.282472
+2023-06-01,23012,"Consumer Prices, General Indices (2015 = 100)",145.107921
+2023-06-01,23013,"Consumer Prices, Food Indices (2015 = 100)",147.015345
+2023-06-01,23014,Food price inflation,12.864132
+2023-07-01,23012,"Consumer Prices, General Indices (2015 = 100)",144.124429
+2023-07-01,23013,"Consumer Prices, Food Indices (2015 = 100)",147.287621
+2023-07-01,23014,Food price inflation,10.693706
+2023-08-01,23012,"Consumer Prices, General Indices (2015 = 100)",144.198902
+2023-08-01,23013,"Consumer Prices, Food Indices (2015 = 100)",147.116804
+2023-08-01,23014,Food price inflation,9.007522
+2023-09-01,23012,"Consumer Prices, General Indices (2015 = 100)",146.6304
+2023-09-01,23013,"Consumer Prices, Food Indices (2015 = 100)",147.638939
+2023-09-01,23014,Food price inflation,7.666359
+2023-10-01,23012,"Consumer Prices, General Indices (2015 = 100)",146.756449
+2023-10-01,23013,"Consumer Prices, Food Indices (2015 = 100)",147.985627
+2023-10-01,23014,Food price inflation,6.54316
+2023-11-01,23012,"Consumer Prices, General Indices (2015 = 100)",146.714433
+2023-11-01,23013,"Consumer Prices, Food Indices (2015 = 100)",148.982852
+2023-11-01,23014,Food price inflation,7.261119
+2023-12-01,23012,"Consumer Prices, General Indices (2015 = 100)",146.861601
+2023-12-01,23013,"Consumer Prices, Food Indices (2015 = 100)",149.353957
+2023-12-01,23014,Food price inflation,6.077058

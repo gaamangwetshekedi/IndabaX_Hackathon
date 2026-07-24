@@ -1,0 +1,18 @@
+{
+  "team_name": "Git Push Legends",
+  "team_members": [
+    "Tshekedi Gaamangwe",
+    "Leatile Mosinyi",
+    "Jason Matlhare",
+    "Lone Mompati",
+    "Khumo Bontsibokae",
+    "Yaone Sekwakwa"
+  ],
+  "forecast_origin": "2023-12-01",
+  "forecast_horizon": 12,
+  "evaluation_years": [2021, 2022, 2023],
+  "sarima_tuning_years": [2018, 2019, 2020],
+  "gru_context_months": 24,
+  "gru_hidden_units": 16,
+  "random_seed": 17
+}
