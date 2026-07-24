@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "bytes": 229,
+      "path": "outputs/predictions.csv",
+      "sha256": "a4818d8efa789f9c99620b45edb238102d64fda540d2c82b1ac413205eef0310"
+    },
+    {
+      "bytes": 580792,
+      "path": "output/pdf/feature_engineering_report.pdf",
+      "sha256": "47de276bb04e0a820143618e5d64f2adbf080d8bc4864b1a1dc64a3dfb84e6a4"
+    },
+    {
+      "bytes": 642134,
+      "path": "output/pdf/model_comparison_report.pdf",
+      "sha256": "474e70f7875e1943cc80fbbcc17771a2b95f02266f5f8b1ba9a67ad7034d8d0a"
+    },
+    {
+      "bytes": 333556,
+      "path": "output/pdf/hcp_linkage_memo.pdf",
+      "sha256": "d975728806fe5a323ec6d5eb35d03b9024f53d8302262473acb96f9d269cc24e"
+    },
+    {
+      "bytes": 210618,
+      "path": "output/pdf/hcp_visualisations.pdf",
+      "sha256": "81b17e814254ac7063d18e0191adecf813b6bde52d9b1e8ee5b142800dd71dcf"
+    },
+    {
+      "bytes": 123863,
+      "path": "output/Git_Push_Legends_Code_Repository.zip",
+      "sha256": "922de288eff1dd12bb5eb0e32dffd27f82a36573054207f495648a1cd64568e6"
+    }
+  ],
+  "generated_from_data_through": "2023-12-31",
+  "selected_model": "NumPy GRU",
+  "team": "Git Push Legends"
+}
